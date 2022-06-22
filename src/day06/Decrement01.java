@@ -18,8 +18,8 @@ public class Decrement01 {
 	*/
 		a --;//9
 		a += 2;//11
-		System.out.println(a++);//11
-		System.out.println("22a="+a);//22a=11
+		System.out.println(a);
+		System.out.println("22a="+a);
 
 
 		
